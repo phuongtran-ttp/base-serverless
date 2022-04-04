@@ -1,0 +1,10 @@
+.idea
+.webpack
+.serverless
+.database/
+
+/node_modules/
+.env
+*.lock
+*.iml
+
